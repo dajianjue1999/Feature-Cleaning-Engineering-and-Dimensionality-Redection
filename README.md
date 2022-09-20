@@ -1,7 +1,7 @@
 # Feature-Cleaning-Engineering-and-Dimensionality-Redection
 
 
-In this homework I will be performing
+I will be performing
 
 1. feature cleaning and engineering
 
